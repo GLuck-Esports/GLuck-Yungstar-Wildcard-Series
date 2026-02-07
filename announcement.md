@@ -95,6 +95,7 @@
 - Integrity, eligibility, and conduct rules are defined in the official ruleset
 - Any disqualification decisions will be published at the time of enforcement
 - Rules are objective, transparent, and applied equally to all participants
+- GLuck Esports reserves the right to deny participation to any team or player with an active VAC ban or known integrity violations.
 
 ## Verifiability
 
