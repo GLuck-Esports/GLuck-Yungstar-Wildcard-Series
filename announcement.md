@@ -9,7 +9,7 @@
 
 - **GLuck Yungstar Series 1:**
 
-  - Online Open Qualifier: Bo1 Single Elimination up to 128 teams, 3 teams qualifies to Closed Qualifier.
+  - Online Open Qualifier: Bo1 Single Elimination with unlimited sign ups, 3 teams qualifies to Closed Qualifier.
   - Online Open Qualifier Dates: 9th, 10th, 11th, 12th April 2026
 
   - Online Closed Qualifier: 12 qualified teams from 4 Open Qualifiers + 4 VRS invited teams, 4 GSL Groups Bo3. 8 teams qualifies to Main Event 
@@ -24,7 +24,7 @@
 
 - **GLuck Yungstar Series 2:**
 
-  - Online Open Qualifier: Bo1 Single Elimination up to 128 teams, 3 teams qualifies to Closed Qualifier.
+  - Online Open Qualifier: Bo1 Single Elimination with unlimited sign ups, 3 teams qualifies to Closed Qualifier.
   - Online Open Qualifier Dates: 4th, 5th, 6th, 7th June 2026
 
   - Online Closed Qualifier: 12 qualified teams from 4 Open Qualifiers + 4 VRS invited teams, 4 GSL Groups Bo3. 8 teams qualifies to Main Event 
@@ -39,7 +39,7 @@
 
 - **GLuck Yungstar Series 3:**
 
-  - Online Open Qualifier: Bo1 Single Elimination up to 128 teams, 3 teams qualifies to Closed Qualifier.
+  - Online Open Qualifier: Bo1 Single Elimination with unlimited sign ups, 3 teams qualifies to Closed Qualifier.
   - Online Open Qualifier Dates: 27th, 28th, 29th, 30th August 2026
 
   - Online Closed Qualifier: 12 qualified teams from 4 Open Qualifiers + 4 VRS invited teams, 4 GSL Groups Bo3. 8 teams qualifies to Main Event 

@@ -9,7 +9,7 @@
 
 - **GLuck Yungstar Series 1:**
 
-  - Online Open Qualifiers: Bo1 Single Elimination up to 128 teams, 3 teams qualifies to Closed Qualifier.
+  - Online Open Qualifiers: Bo1 Single Elimination with unlimited sign ups, 3 teams qualifies to Closed Qualifier.
   - Online Open Qualifier Dates: 9th, 10th, 11th, 12th April 2026
 
   - Online Closed Qualifier: 12 qualified teams from 4 Open Qualifiers + 4 VRS invited teams, 4 GSL Groups Bo3. 8 teams qualifies to Main Event 
@@ -32,13 +32,17 @@
 - **VRS publication date used for seeding:** April 2026  
 
 ## Open Qualifier
-- Registration opens on February 22th
+- Registration opens on March 2nd
 - If the organizer is unable to fill the Closed Qualifier with invited participants, the organizer is entitled to invite the top 4th team from the Open Qualifier, starting with Open Qualifier #1.
 - Open to eligible rosters from **Russia, Belarus, Kazakhstan, Armenia, Azerbaijan, Tajikistan, Turkmenistan, Kyrgyzstan, Uzbekistan, and Georgia**  
-- Registration via ***
+- Registration via FASTCUP
 - No roster-specific or discretionary selection criteria 
-- Platform will be determinated ASAP
-- Qualifier links: _Will be provided on February 15th_
+- Qualifier links: 
+[Registration link Open Qual 1](https://cs2.fastcup.net/tournaments/14628)
+[Registration link Open Qual 2](https://cs2.fastcup.net/tournaments/14629)
+[Registration link Open Qual 3](https://cs2.fastcup.net/tournaments/14630)
+[Registration link Open Qual 4](https://cs2.fastcup.net/tournaments/14631)
+
  
 ## Visa / Location
 
