@@ -9,8 +9,8 @@
 
 - **GLuck Yungstar Series 2:**
 
-  - Online Open Qualifier: Bo1 Single Elimination up to 128 teams, 3 teams qualifies to Closed Qualifier.
-  - Online Open Qualifier Dates: 4th, 5th, 6th, 7th June 2026
+  - Online Open Qualifier: Bo1 Single Elimination with unlimited sign ups, 3 teams qualifies to Closed Qualifier.
+  - Online Open Qualifier Dates: 11th, 12th, 13th, 14th June 2026
 
   - Online Closed Qualifier: 12 qualified teams from 4 Open Qualifiers + 4 VRS invited teams, 4 GSL Groups Bo3. 8 teams qualifies to Main Event 
   - Online Closed Qualifier Dates: 26th - 28th June 2026
@@ -30,13 +30,13 @@
 - **VRS publication date used for seeding:** June 2026  
 
 ## Open Qualifier
-- Registration opens on May 4th
+- Registration opens on May 11th
 - If the organizer is unable to fill the Closed Qualifier with invited participants, the organizer is entitled to invite the top 4th team from the Open Qualifier, starting with Open Qualifier #1.
 - Open to eligible rosters from **Russia, Belarus, Kazakhstan, Armenia, Azerbaijan, Tajikistan, Turkmenistan, Kyrgyzstan, Uzbekistan, and Georgia**  
-- Registration via ***
+- Registration via FASTCUP
 - No roster-specific or discretionary selection criteria 
 - Platform will be determinated ASAP
-- Qualifier links: _Will be provided on April 27th_
+- Qualifier links: _Will be provided on May 11th_
  
 ## Visa / Location
 
